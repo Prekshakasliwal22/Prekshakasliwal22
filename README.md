@@ -1,10 +1,15 @@
 # 👋 About Me
 
 Hi, I'm **Preksha Kasliwal** 👋
+
 💻 I'm a Full-Stack Web Developer passionate about building modern web applications using **React.js, Node.js, Express.js, and PostgreSQL**.
+
 🚀 I enjoy creating responsive user interfaces, developing REST APIs, and designing scalable backend applications.
+
 🌱 Currently improving my skills in Full-Stack Development, API Integration, Database Design, and Data Structures & Algorithms.
+
 🤝 I'm always interested in collaborating on web development projects and learning new technologies.
+
 📫 Reach me at: **prekshakasliwal22@gmail.com**
 
 ## 🌐 Socials:
