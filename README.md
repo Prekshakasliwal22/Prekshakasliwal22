@@ -32,17 +32,16 @@ Hi, I'm **Preksha Kasliwal** 👋
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prekshakasliwal22&show_icons=true&theme=tokyonight&hide_border=true" />
+## 📊 GitHub Stats
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prekshakasliwal22&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prekshakasliwal22&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prekshakasliwal22&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prekshakasliwal22&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prekshakasliwal22&theme=github_dark" width="48%" />
 </p>
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Prekshakasliwal22&icon=0&color=0)](https://visitcount.itsvg.in)
