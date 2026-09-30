@@ -10,7 +10,7 @@ Hi, I'm **Preksha Kasliwal** 👋
 
 🤝 I'm always interested in collaborating on web development projects and learning new technologies.
 
-📫 Reach me at: **prekshakasliwal22@gmail.com**
+📫 Reach me at: **prekshakasliwal2004@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prekshakasliwal22/)
